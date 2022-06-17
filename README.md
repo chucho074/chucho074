@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesus Del Moral</h1>
-<h3 align="center">Game Developer Engeneer</h3>
+<h3 align="center">Game Developer Engineer</h3>
 
 <br>
 
